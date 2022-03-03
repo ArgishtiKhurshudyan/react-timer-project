@@ -1,0 +1,25 @@
+.timer_p {
+    color: red;
+    font-size: 40px;
+}
+
+.timer_div{
+    width:500px;
+    background:yellow;
+    margin:0 auto;
+    
+}
+
+.timer_div > button{
+    padding: 7px;
+    margin:5px;
+    width: 80px;
+    justify-content: center;
+    font-weight: lighter;
+    color:red;
+    border: 1px solid green;
+    border-radius: 30px;
+    cursor: pointer;
+    
+
+}
